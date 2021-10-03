@@ -39,6 +39,8 @@ This project was created by Sandra Rosa Antony.I am creating this project in a b
 I had used HTML and CSS languages to build this project.I had done inspecting option on  chrome profile sometimes to 
 leave float and padding.I worked so well for it..,I think.Hope I can contribute much into this webdevolopment career..☺
   
+  <img width="600px" src="https://github.com/Sandra-Rosa/creating-afacebook-homescreen-using-html/blob/main/5ff80cddb3a6220f7503080154201cd1.jpg"/>
+  
 ## Authors
 
 - [@sandra-rosa](https://www.github.com/sandra-rosa)
