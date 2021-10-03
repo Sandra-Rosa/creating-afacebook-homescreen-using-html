@@ -49,7 +49,7 @@ leave float and padding.I worked so well for it..,I think.Hope I can contribute 
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Main Colour used | ![#fcfcfc](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Main Colour used | ![#fcfcfc](https://via.placeholder.com/10/0a192f?text=+) #fcfcfc |
 
 
 
