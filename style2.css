@@ -10,9 +10,11 @@ body{
 .logo{
     width: 50%;
     padding-top:32px;
+    float:left;
 }
 .login{
     width: 50%;
+    float:left;
 }
 .logo-text{
     color: #fff;
