@@ -26,5 +26,32 @@ body{
     margin-left: 170px;
 }
 .login-label{
+    color:#fff;
+    font: size 11px;
     
+}
+.login-controls{
+    margin-left:115px;
+
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+color: #fff;
+font-size: 11 px;
+text-decoration: none;
+color: #9cb4dB;
+}
+.submit-btn{
+    background:#4267b2 ;
+    color: #fff;
+    height: 20 px;
+    border-color: #29487d;
+    cursor: pointer;
+
+
+}
+.submit-btn:hover{
+    background:rgb(51, 51, 124);
 }
